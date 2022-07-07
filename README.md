@@ -1,4 +1,4 @@
-# NPuzzle  by multible search algorithe 
+# NPuzzle  by multible search algorithe A star , BFS and DFS
 ## useing in this algorithmes 
 * A* algorithme in AStare File
 * BFS algorithme in BFS file 
