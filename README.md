@@ -6,4 +6,4 @@
 ## this project expected to solve N puzzle in shortest time
 ### ther is folder (" Test cases ") this folder contain deffrent test cases of buzzle 
 to get the effecent of algorithme and increasing from easy to hareder 
-
+### the language which use in this project is c sharp
